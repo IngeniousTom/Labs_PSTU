@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Complex.h
+Pair.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Pair.h
+string
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/string
+iostream
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/iostream
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Objecto.h
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Pair.h
+string
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/string
+iostream
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/iostream
+Objecto.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Objecto.h
+myUtilities.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/myUtilities.h
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Vector.cpp
+Vector.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Vector.h
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Vector.h
+ostream
+-
+Objecto.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Objecto.h
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/main.cpp
+iostream
+-
+Vector.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Vector.h
+Pair.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Pair.h
+Complex.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/Complex.h
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-5/myUtilities.h
+stdexcept
+-
+memory
+-
+iostream
+-
+ios
+-
+limits
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+sstream
+-
+regex
+-
+

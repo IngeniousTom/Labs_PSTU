@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-2/Number.cpp
+iostream
+-
+Number.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-2/Number.h
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-2/Number.h
+string
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-2/main.cpp
+iostream
+-
+Number.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-2/Number.h
+myUtilities.h
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-2/myUtilities.h
+
+/cygdrive/d/Stuff/Programming/C & C++/IKT/1-2/LR-2/myUtilities.h
+stdexcept
+-
+memory
+-
+iostream
+-
+ios
+-
+limits
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+sstream
+-
+regex
+-
+

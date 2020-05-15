@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -static-libstdc++ -static-libgcc -g  -Wl,--enable-auto-import CMakeFiles/LR_4.dir/main.cpp.o CMakeFiles/LR_4.dir/Pair.cpp.o CMakeFiles/LR_4.dir/Complex.cpp.o  -o LR_4.exe -Wl,--out-implib,libLR_4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

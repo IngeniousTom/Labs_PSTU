@@ -81,8 +81,8 @@ bool Time::operator!=(const Time &t) {
  * @return
  */
 istream &operator>>(istream &in, Time &t) {
-    t.min = getInt("Введите минуты:", MIN_INT, MAX_INT);
-    t.sec = getInt("Введите секунды:", MIN_INT, MAX_INT);
+    t.min = getInt("Введите минуты:", 1, MAX_INT);
+    t.sec = getInt("Введите секунды:", 1, MAX_INT);
     return in;
 }
 

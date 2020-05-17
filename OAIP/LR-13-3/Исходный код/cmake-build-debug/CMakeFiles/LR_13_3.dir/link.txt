@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -static-libstdc++ -static-libgcc -g  -Wl,--enable-auto-import CMakeFiles/LR_13_3.dir/main.cpp.o CMakeFiles/LR_13_3.dir/Time.cpp.o  -o LR_13_3.exe -Wl,--out-implib,libLR_13_3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

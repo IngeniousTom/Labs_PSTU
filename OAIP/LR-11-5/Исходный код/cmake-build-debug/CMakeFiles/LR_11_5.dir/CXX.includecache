@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Stuff/Programming/C & C++/OAIP/1-2/LR-11-5/Time.h
+iostream
+-
+myUtilities.h
+/cygdrive/d/Stuff/Programming/C & C++/OAIP/1-2/LR-11-5/myUtilities.h
+
+/cygdrive/d/Stuff/Programming/C & C++/OAIP/1-2/LR-11-5/Vector.h
+iostream
+-
+queue
+-
+vector
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/OAIP/1-2/LR-11-5/main.cpp
+iostream
+-
+Time.h
+/cygdrive/d/Stuff/Programming/C & C++/OAIP/1-2/LR-11-5/Time.h
+Vector.h
+/cygdrive/d/Stuff/Programming/C & C++/OAIP/1-2/LR-11-5/Vector.h
+
+/cygdrive/d/Stuff/Programming/C & C++/OAIP/1-2/LR-11-5/myUtilities.h
+stdexcept
+-
+memory
+-
+iostream
+-
+ios
+-
+limits
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+sstream
+-
+regex
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -static-libstdc++ -static-libgcc -g  -Wl,--enable-auto-import CMakeFiles/LR_7.dir/main.cpp.o CMakeFiles/LR_7.dir/Vector.cpp.o CMakeFiles/LR_7.dir/Time.cpp.o  -o LR_7.exe -Wl,--out-implib,libLR_7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -10,7 +10,7 @@ Number::Number() {
     this->mantissa = 0;
     this->coefficient = 0;
     this->stringValue = "";
-    cout << "\nКонструктор без параметров для объекта " << this << endl;
+    cout << endl << "Конструктор без параметров для объекта " << this << endl;
 }
 
 /**
@@ -19,11 +19,11 @@ Number::Number() {
  * @param coefficient
  * @param stringValue
  */
-Number::Number(float mantissa, int coefficient, string stringValue) : mantissa(mantissa), coefficient(coefficient), stringValue(stringValue) {
+Number::Number(float mantissa, int coefficient, const string& stringValue) : mantissa(mantissa), coefficient(coefficient), stringValue(stringValue) {
     this->mantissa = mantissa;
     this->coefficient = coefficient;
     this->stringValue = stringValue;
-    cout << "\nКонструктор c параметрами для объекта " << this << endl;
+    cout << endl << "Конструктор c параметрами для объекта " << this << endl;
 }
 
 /**
@@ -34,14 +34,14 @@ Number::Number(const Number &t) {
     this->mantissa = t.mantissa;
     this->coefficient = t.coefficient;
     this->stringValue = t.stringValue;
-    cout << "\nКонструктор копирования для объекта " << this << endl;
+    cout << endl << "Конструктор копирования для объекта " << this << endl;
 }
 
 /**
  * Деструктор
  */
 Number::~Number() {
-    cout << "Деструктор для объекта " << this << endl;
+    cout << endl << "Деструктор для объекта " << this << endl;
 }
 
 /**
@@ -96,7 +96,8 @@ void Number::setStringValue(string stringValue) {
  * Метод вывода значений полей в консоль
  */
 void Number::show() {
-    cout << "\nОбъект:" << this << endl;
+    cout << endl;
+    cout << "Объект:" << this << endl;
     cout << "Мантисса: " << this->mantissa << endl;
     cout << "Коэффициент: " << this->coefficient << endl;
     cout << "Строковое представление: " << this->stringValue << endl;

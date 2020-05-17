@@ -14,7 +14,7 @@ class Number {
     string stringValue; //Строковое представление
 public:
     Number();                                //Конструктор без параметров
-    Number(float mantissa, int coefficient, string stringValue); //Конструктор с пармаетрами
+    Number(float mantissa, int coefficient, const string& stringValue); //Конструктор с пармаетрами
     Number(const Number &);                  //Конструктор копирования
     ~Number();                               //Деструктор
     float getMantissa();                     //Метод получения мантиссы

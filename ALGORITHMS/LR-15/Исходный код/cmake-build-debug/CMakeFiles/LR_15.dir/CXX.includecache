@@ -1,0 +1,122 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Data.h
+string
+-
+iostream
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/DataGenerator.cpp
+DataGenerator.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/DataGenerator.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/DataGenerator.h
+Data.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Data.h
+../myUtilities.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/myUtilities.h
+random
+-
+vector
+-
+list
+-
+iostream
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Dialog.cpp
+Dialog.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Dialog.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Dialog.h
+iostream
+-
+string
+-
+../Event.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Event.h
+Manager.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Manager.h
+../structs.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/structs.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/HashTable.cpp
+HashTable.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/HashTable.h
+stdexcept
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/HashTable.h
+list
+-
+string
+-
+cmath
+-
+Data.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Data.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Manager.cpp
+Manager.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Manager.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Manager.h
+Data.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Data.h
+DataGenerator.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/DataGenerator.h
+HashTable.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/HashTable.h
+../myUtilities.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/myUtilities.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Event.h
+constants.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/constants.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/constants.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/main.cpp
+Components/Dialog.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/Components/Dialog.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/myUtilities.h
+stdexcept
+-
+memory
+-
+iostream
+-
+ios
+-
+limits
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+sstream
+-
+regex
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/structs.h
+cstring
+-
+string
+-
+vector
+-
+list
+-
+constants.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-15/constants.h
+

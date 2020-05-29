@@ -1,0 +1,188 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBConnectSystem.cpp
+DBConnectSystem.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBConnectSystem.h
+../Exceptions/FileNotFoundException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileNotFoundException.h
+../Exceptions/FileCreateException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileCreateException.h
+../Exceptions/FileWriteException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileWriteException.h
+../Exceptions/FileOpenException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileOpenException.h
+../Exceptions/FileReadException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileReadException.h
+unistd.h
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBConnectSystem.h
+cstdio
+-
+string
+-
+../structs.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/structs.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBProcessor.cpp
+DBProcessor.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBProcessor.h
+../Exceptions/EntryNotFoundException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/EntryNotFoundException.h
+../Exceptions/WrongPositionException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/WrongPositionException.h
+../Exceptions/RuntimeException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/RuntimeException.h
+algorithm
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBProcessor.h
+../structs.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/structs.h
+DBConnectSystem.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBConnectSystem.h
+IOSystem.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/IOSystem.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Dialog.cpp
+Dialog.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Dialog.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Dialog.h
+iostream
+-
+string
+-
+../Event.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Event.h
+Manager.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Manager.h
+../constants.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/constants.h
+../structs.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/structs.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/IOSystem.cpp
+IOSystem.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/IOSystem.h
+../Exceptions/RuntimeException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/RuntimeException.h
+iostream
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/IOSystem.h
+../myUtilities.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/myUtilities.h
+../structs.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/structs.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Manager.cpp
+../constants.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/constants.h
+Manager.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Manager.h
+../Exceptions/ConnectException.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/ConnectException.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Manager.h
+DBConnectSystem.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBConnectSystem.h
+DBProcessor.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/DBProcessor.h
+IOSystem.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/IOSystem.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Event.h
+constants.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/constants.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/ConnectException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/EntryNotFoundException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+string
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileCreateException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileNotFoundException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileOpenException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileReadException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/FileWriteException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/RuntimeException.h
+string
+-
+stdexcept
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/WrongPositionException.h
+Exception.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Exceptions/Exception.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/constants.h
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/main.cpp
+Components/Dialog.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/Components/Dialog.h
+iostream
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/myUtilities.h
+stdexcept
+-
+memory
+-
+iostream
+-
+ios
+-
+limits
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+sstream
+-
+regex
+-
+
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/structs.h
+cstring
+-
+string
+-
+vector
+-
+list
+-
+constants.h
+/cygdrive/d/Stuff/Programming/C & C++/ALGORITHMS/1-2/LR-14/constants.h
+
